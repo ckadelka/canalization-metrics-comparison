@@ -1,0 +1,11 @@
+pair_id,model,feat_x,feat_y,param,auc_cv_mean,auc_cv_std
+0,logistic regression,canalizing strength,average sensitivity,,0.9928861111111111,0.014653286399223486
+0,decision tree,canalizing strength,average sensitivity,,0.9293,0.07442170764537089
+0,svc,canalizing strength,average sensitivity,,0.9986896825396825,0.004295200170659438
+0,knn,canalizing strength,average sensitivity,3.0,0.9783286375661375,0.04376212860128011
+0,knn,canalizing strength,average sensitivity,5.0,0.9868316798941799,0.02506478585190869
+1,logistic regression,input redundancy,average sensitivity,,0.9749777116402115,0.03475090431207841
+1,decision tree,input redundancy,average sensitivity,,0.8691152777777776,0.09661383276544296
+1,svc,input redundancy,average sensitivity,,0.9538550925925926,0.06481918517885643
+1,knn,input redundancy,average sensitivity,3.0,0.9282214285714285,0.07761906967436741
+1,knn,input redundancy,average sensitivity,5.0,0.9341340608465608,0.07252733330856496
