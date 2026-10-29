@@ -7,7 +7,7 @@ network stability.
 
 ## Purpose
 This repository contains all code to generate the figures presented in
-> **Emma Tran, Ahana Ghosh, Ruodan Liu, Sean Campbell, Claus Kadelka.** *Distinguishing canalization from input redundancy in Boolean networks.* Under review.
+> **Emma Tran, Ahana Ghosh, Ruodan Liu, Sean Campbell, Claus Kadelka.** *Comparing measures of collective canalization in Boolean functions and networks*. Under review.
 
 ## Repository structure
 ```
